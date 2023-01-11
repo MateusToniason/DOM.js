@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    background: #173153;
+    color: #8f999e;
+    font: 15pt arial;
+}
+div{
+    cursor: pointer;
+    background: #1d1f20;
+    width: 100px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border: 1px solid;
+    border-color: #131111;
+    border-radius: 7px;
+}
+div:hover{
+    color: #8eabd1;
+    transition: 1s;
+}
